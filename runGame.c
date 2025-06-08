@@ -13,6 +13,7 @@ void runGame() {
 	//i = j / 0;
 
 	printf("\nChoose X or O. O moves first !!\n\n");
+	printf("\nChoose X or O. O moves first !!\n\n");
 
 	while(1) {
 		
