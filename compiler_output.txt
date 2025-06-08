@@ -1,2 +1,7 @@
 Last Compile Errors:
-Sun Jun  8 13:30:24 PDT 2025
+Sun Jun  8 13:48:15 PDT 2025
+main.c: In function 'main':
+main.c:8:5: warning: implicit declaration of function 'hello'; did you mean 'ftello'? [-Wimplicit-function-declaration]
+    8 |     hello();
+      |     ^~~~~
+      |     ftello
