@@ -1,0 +1,19 @@
+ttt6
+Tic-Tac-Toe Program
+johnstudent
+/var/lib/mysql-files/uploads
+/home/projects/johnstudent/ttt6
+getComputerMove.c
+getHumanMove.c
+initBoard.c
+is3inARow.c
+isAWin.c
+isBoardFull.c
+main.c
+makeMove.c
+max.c
+min.c
+minMax.c
+printBoard.c
+runGame.c
+tictactoe.h
